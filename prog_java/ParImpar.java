@@ -24,4 +24,7 @@ if (numero % 2 == 0) {
      //salida
      System.out.println("el numero es impar");
     
+     // Cerrar el scanner
+     scanner.close();
+     }
 }

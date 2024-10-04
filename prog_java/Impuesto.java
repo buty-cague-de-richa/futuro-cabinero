@@ -19,8 +19,8 @@ public class Impuestos {
             System.out.println("El trabajador no debe pagar impuestos.");
         }
 
-        scanner.close();
+        // Cerrar el scanner
+     scanner.close();
     }
-}
 
-}
+}  
